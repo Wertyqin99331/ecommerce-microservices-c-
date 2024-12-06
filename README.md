@@ -14,3 +14,4 @@ Features:
 10. Redis for distibuted caching
 11. Yarp proxy for cross cutting concerns - authentication, ratelimiting, etc
 12. Clean architecture, Slice architecture
+13. Docker and docker compose for containerization microservices
